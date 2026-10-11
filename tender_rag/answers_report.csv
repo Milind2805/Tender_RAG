@@ -1,0 +1,67 @@
+﻿id,status,question,needles_found,answer,gold_answer,retrieved_pages
+q01,OK,What is the NIT Number and Date for this work?,2/2,"Based on the provided document, the NIT Number and Date are:
+
+* NIT Number and Date: ""1314/30.09.2026"" [TenderDocument.pdf p.1]
+* NIT No.: ""1314"", Date of NIT: ""30.09.2026"" [TenderDocument.pdf p.14]",1314/e-tendering Chhapiheda Dated 30.09.2026,"[1, 3, 4, 5, 14, 17, 71, 72, 77]"
+q02,OK,Name the issuing authority office for this tender.,1/1,"Based on the provided document, the issuing authority office for the tender is the ""Office of the Nagar Parishad Chhapiheda"" [TenderDocument.pdf p.1, TenderDocument.pdf p.4, TenderDocument.pdf p.14, TenderDocument.pdf p.16].",Office of the Nagar Parishad Chhapiheda (M.P.),"[1, 4, 14, 16, 18, 22, 32, 36, 44, 57, 59, 66, 77]"
+q03,OK,What is the probable amount of contract and the stipulated period of completion for the work?,2/2,"Based on the provided document, the details are as follows:
+
+* **Probable Amount of Contract (Rs. In Figure):** 
+  * ""431005"" [TenderDocument.pdf p.1]
+  * ""1314/30.09.2026: 431005"" (under the label ""NIT Number and Date: (Rs. In Figure)"") [TenderDocument.pdf p.1]
+  * ""431005"" (under the label ""Probable Amount of Contract (Rs. inlakh)"") [TenderDocument.pdf p.4]
+
+* **Stipulated Period of Completion:**
+  * ""03 Month (Including Rainy Season)Month"" (under the label ""Stipulated Period of Completion"") [TenderDocument.pdf p.1]
+  * ""3 Month (Including Rainy Season) months"" (under the label ""CONTRACT DATA: Stipulated period of completion"") [TenderDocument.pdf p.57]
+  * ""03 Month (Including Rainy Season)"" (under the label ""Period of Completion (in Months)"") [TenderDocument.pdf p.4]",Probable Amount of Contract: Rs. 431005 (INR Four Lakh Thirty One Thousand & Five Only); Completion Period: 03 Month (Including Rainy Season),"[1, 4, 19, 28, 37, 38, 40, 45, 54, 57, 59, 62, 64, 65]"
+q04,OK,What is the Earnest Money Deposit (EMD) amount required for this tender?,1/1,"Based on the document, there are multiple Earnest Money Deposit (EMD) amounts mentioned with different labels:
+
+* **Rs. 14821/-** with the label ""Earnest Money Deposit"" [TenderDocument.pdf p.16]
+* **Rs.4310.00** with the label ""Earnest Money Deposit (EMD) (In Rupees)"" [TenderDocument.pdf p.4]",Rs.4310.00 / Rs. 14821/-,"[4, 5, 9, 10, 16]"
+q05,OK,What documents are required to be contained in Online Envelope A?,3/3,"Based on the document, Online Envelope A shall contain the following:
+
+* ""Registration number or proof of application for registration and organizational details"" [TenderDocument.pdf p.8] (as per Annexure H [TenderDocument.pdf p.16]).
+* ""An affidavit duly notarized"" [TenderDocument.pdf p.8] (as per Annexure - B [TenderDocument.pdf p.16]).
+* ""tender document pur. receipt"" [TenderDocument.pdf p.16].",i) Registration number or proof of application for registration and organizational details as per Annexure H; ii) An affidavit duly notarized as per Annexure B; iii) tender document pur. receipt,"[8, 10, 11, 16, 24, 27]"
+q06,CHECK,What are the eligibility criteria for bidders at the time of submission of the bid?,3/4,"At the time of submission of the bid, the eligibility criteria for bidders are:
+
+1. The bidder should have valid registration with the Government of Madhya Pradesh, PWD in an appropriate class [TenderDocument.pdf p.4].
+2. Bidders who are not registered with the Government of Madhya Pradesh and are eligible for registration can also submit their bids after having applied for registration with the appropriate authority [TenderDocument.pdf p.4].","The bidder should have valid registration with the Government of Madhya Pradesh, PWD in appropriate class (or proof of application for registration) and must have valid registration at the time of signing of the Contract.","[4, 5, 6, 8, 10, 20, 22, 24, 25, 29, 30]"
+q07,OK,What happens if the selected bidder fails to sign the contract?,2/2,"If the selected bidder fails to sign the contract within the specified period, for whatsoever reason, it shall result in the forfeiture of the earnest money deposit [TenderDocument.pdf p.5, TenderDocument.pdf p.10].","Failure to sign the contract by the selected bidder, for whatsoever reason, shall result in forfeiture of the earnest money deposit.","[5, 7, 10, 12, 13, 33, 35, 45, 49]"
+q08,OK,What happens if a bidder submits more than one bid?,2/2,"No bidder shall be entitled to submit more than one bid whether jointly or severally, and if they do so, all bids wherein the bidder has participated shall stand disqualified [TenderDocument.pdf p.6].","No bidder shall be entitled to submit more than one bid whether jointly or severally. If he does so, all bids wherein the bidder has participated shall stand disqualified.","[6, 7, 8, 9, 10, 11, 19, 22, 24, 28]"
+q09,CHECK,Where must Envelope A be submitted in physical form and by when?,1/2,"Based on the provided document, Envelope-A must be submitted in physical form at the following location and time/date:
+
+* **Place:** ""Office of the Nagar Parishad Chhapiheda"" [TenderDocument.pdf p.16] / ""Divional Office, Bhopal"" [TenderDocument.pdf p.16] (Note: The excerpts mention both locations in relation to the physical submission of Envelope-A).
+* **Time/Date:** ""on or before date of physical submission"" [TenderDocument.pdf p.16], specifically ""after the date of electronic opening of Technical bid"" [TenderDocument.pdf p.11].","It should reach in physical form in the Office of the Nagar Parishad Chhapiheda / Divisional Office, Bhopal on two working days after date of opening of technical bid.","[4, 8, 10, 11, 16, 18, 24, 33]"
+q10,OK,What is the Defect Liability Period for this contract and when is the Security Deposit refunded?,3/3,"Based on the provided document, the Defect Liability Period is:
+- ""3 Year for Road and 1 Year for Other Works"" [TenderDocument.pdf p.57] (also in [TABLE] format with label ""CONTRACT DATA: Defect Liability Period"" [TenderDocument.pdf p.57]).
+
+The Security Deposit is refunded:
+- ""on completion of Defect Liability Period"" [TenderDocument.pdf p.50].",Defect Liability Period: 3 Year for Road and 1 Year for Other Works. The Security Deposit shall be refunded on completion of Defect Liability Period.,"[36, 37, 46, 48, 50, 57, 58]"
+q11,OK,How long must the bid remain valid after the bid submission closing date?,1/1,"Based on the provided document, the bid must remain valid for the following period:
+
+* **180 Days** [TenderDocument.pdf p.16], under the label ""Period of Validity of Bid"".",180 Days,"[4, 8, 9, 10, 11, 16, 17, 35]"
+q12,OK,What is the period of validity of the submitted tender proposal?,1/1,"Based on the provided document, the period of validity of the bid is:
+
+* ""180 Days"" [TenderDocument.pdf p.16] (labeled as ""Period of Validi | ty of Bid"" and ""Period of Validity of Bid"" [TenderDocument.pdf p.16]).",180 Days,"[8, 9, 10, 11, 16, 17, 18, 57]"
+q13,OK,What are the account details specified for online EMD payment?,2/2,"Based on the provided document, the account details specified for online EMD payment are:
+
+* ""i. Name of Account Holder"", ""ii. Account No. 53046410126"", and ""iii. Bank Name State Bank of India"" [TenderDocument.pdf p.16]
+* ""i. Name of Account Holder ii. Account No. iii. Bank Name State Bank of India Chhapiheda iv. IFS Code SBIN0010807 Six Months or More Cmo nagar Parishad Chhapiheda A/c"" [TenderDocument.pdf p.16]",Name of Account Holder: Cmo nagar Parishad Chhapiheda A/c; Account No.: 53046410126; Bank Name: State Bank of India Chhapiheda; IFS Code: SBIN0010807,"[4, 8, 9, 10, 16, 54]"
+q14,OK,What formula is used to calculate the Bid Capacity of an applicant?,2/2,"Based on the provided document, the formula used to calculate the Bid Capacity of an applicant is:
+
+Bid Capacity = (1.5 A X B) - C [TenderDocument.pdf p.29]
+
+Where:
+* A = Maximum value of civil engineering works executed in any one year during the last five year (10% weightage per year shall be given to bring the value of work executed at present price level) [TenderDocument.pdf p.29]
+* B = Proposed contract period inyears [TenderDocument.pdf p.29]
+* C = Amount of work in hand atpresent [TenderDocument.pdf p.29]",Bid Capacity = (1.5 A X B) - C,"[5, 6, 9, 10, 11, 14, 19, 24, 28, 29, 38, 51]"
+q15,OK,What is the exact quantity of cement and steel required for the construction of the community building?,0/0,I can't find this in the document.,,"[3, 4, 15, 19, 28, 32, 38, 64, 77]"
+q16,CHECK,"What is the exact date, time, and venue for the pre-bid meeting?",0/0,"Based on the document, the date, time, and venue for the pre-bid meeting are indicated as follows:
+
+* Date: ""Date ...................."" [TenderDocument.pdf p.15], ""Date ...................."" [TABLE, TenderDocument.pdf p.15]
+* Time: ""Time ............"" [TenderDocument.pdf p.15], ""Time ............"" [TABLE, TenderDocument.pdf p.15]
+* Venue: ""Place ......................"" [TenderDocument.pdf p.15], ""Place ......................"" [TABLE, TenderDocument.pdf p.15] 
+
+The document notes that ""Details of venue, date and time would be mentioned in the Bid Data Sheet"" [TenderDocument.pdf p.7, TenderDocument.pdf p.7].",,"[5, 7, 14, 15, 17]"
