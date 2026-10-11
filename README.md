@@ -4,6 +4,8 @@ Ask questions about construction tender documents and get answers with page cita
 
 The focus of this project is **evaluation**: I wrote a question set first, then measured how each change to retrieval and prompting moved the answers, instead of judging by a few demo questions.
 
+[Live Demo](https://tenderrag-kfh9jgdadjg9jgyasb6dtz.streamlit.app/)
+
 ## Example
 
 ```
