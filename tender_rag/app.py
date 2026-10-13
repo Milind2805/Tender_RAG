@@ -78,6 +78,7 @@ if question:
                 st.session_state.n_asked -= 1
                 st.error("Could not get an answer right now (the free Gemini quota may be busy). "
                          "Wait about 15 seconds and try again.")
+                st.caption(f"Technical detail: {str(e)[:300]}")
                 st.stop()
         st.markdown(text)
 
